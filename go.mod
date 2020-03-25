@@ -1,4 +1,4 @@
-module github.com/TheCacophonyProject/thermal-recorder
+module github.com/feverscreen/fs-thermal-recorder
 
 go 1.12
 
